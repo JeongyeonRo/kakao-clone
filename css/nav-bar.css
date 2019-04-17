@@ -1,0 +1,16 @@
+.nav {
+  position: fixed;
+  /*postion:fixed;(화면 스크롤 하여도 지정한 위치 고정)를 사용할 경우
+  width 를 필수로 사용해야합니다. */
+  width: 100%;
+  padding: 20px 50px;
+  left: 0px;
+  bottom: 0px;
+  background-color: #fcfcfc;
+  border-top: 1px solid #f7f7f7;
+}
+
+.nav .nav__list {
+  display: flex;
+  justify-content: space-between;
+}
