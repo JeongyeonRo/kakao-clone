@@ -32,7 +32,7 @@
 }
 
 .friend__content .friend__name {
-  display: inline;
+  display: block;
   font-weight: 600;
   margin-bottom: 5px;
 }
