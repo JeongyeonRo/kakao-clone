@@ -23,6 +23,8 @@
 .friend .friend__column {
   display: flex;
   align-items: center;
+  padding-left: 50px;
+  background-color: red;
 }
 
 .friend .friend__avatar {
